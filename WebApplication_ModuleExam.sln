@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "WebApplication_ModuleExam", "WebApplication1\WebApplication_ModuleExam.csproj", "{278C7A19-CA61-4F6A-A87A-4CF5C45DD9C5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClassLibrary_DBAccess", "ClassLibrary1\ClassLibrary_DBAccess.csproj", "{2C2F9F20-90FC-42DB-99DD-E1B31169B88F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{278C7A19-CA61-4F6A-A87A-4CF5C45DD9C5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{278C7A19-CA61-4F6A-A87A-4CF5C45DD9C5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{278C7A19-CA61-4F6A-A87A-4CF5C45DD9C5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{278C7A19-CA61-4F6A-A87A-4CF5C45DD9C5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2C2F9F20-90FC-42DB-99DD-E1B31169B88F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C2F9F20-90FC-42DB-99DD-E1B31169B88F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C2F9F20-90FC-42DB-99DD-E1B31169B88F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C2F9F20-90FC-42DB-99DD-E1B31169B88F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
